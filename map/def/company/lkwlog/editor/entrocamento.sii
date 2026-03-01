@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .entrocamento {
+ city: entrocamento
+ prefab: 36
+}
+}

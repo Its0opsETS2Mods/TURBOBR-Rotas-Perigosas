@@ -1,0 +1,24 @@
+effect : "eut2.dif.spec.mult.dif.spec.add.env.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 1.000000 , 1.000000 , 1.000000 }
+	env_factor : { 0.214041 , 0.214041 , 0.214041 }
+	fresnel : { 0.200000 , 0.900000 }
+	reflection : 0.000000
+	shininess : 250.000000
+	specular : { 1.000000 , 1.000000 , 1.000000 }
+	texture : "texture_base" {
+		source : "/vehicle/ai/pyhunhk1o44j/bus_tourliner/color.tobj"
+		sampler : default
+	}
+	texture : "texture_mult" {
+		source : "/vehicle/ai/pyhunhk1o44j/bus_tourliner/skin_01.tobj"
+		sampler : default
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/vehicle_reflection.tobj"
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}

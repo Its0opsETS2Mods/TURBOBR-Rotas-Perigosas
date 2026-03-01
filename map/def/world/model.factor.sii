@@ -1,0 +1,8 @@
+SiiNunit
+{
+model_def : model.factor {
+ 	model_desc: "/model/city/praga/praga.pmd"
+	category: "detalhes"
+
+}
+}

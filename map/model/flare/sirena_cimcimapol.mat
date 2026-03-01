@@ -1,0 +1,6 @@
+material : "eut2.unlit.vcol.tex.add" {
+	texture[0] : "/model/flare/sirena_cimcimapol.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+
+}

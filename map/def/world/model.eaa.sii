@@ -1,0 +1,292 @@
+SiiNunit
+{
+
+model_def : model.lombada {
+	model_desc: "/model/eaa/lombada.pmd"
+	distance_type: 1
+}
+
+model_def : model.cristo {
+	category: "EAA/Cristo Redentor"
+	model_desc: "/model/eaa/cristo_redentor/cristo_redentor.pmd"
+
+}
+
+model_def : model.trucks {
+	model_desc: "/model/restanho/model_trucks.pmd"
+}
+
+model_def : model.cars {
+	model_desc: "/model/restanho/model_cars.pmd"
+	distance_type: 3
+}
+
+model_def : model.aviao {
+	model_desc: "/model/eaa/aviaocan/f8_canoas.pmd"
+	distance_type: 1
+}
+
+model_def : model.prf {
+	model_desc: "/model/eaa/car_prf.pmd"
+	distance_type: 1
+}
+
+model_def : model.curral {
+	model_desc: "/model/curral/curral.pmd"
+	distance_type: 1
+}
+
+model_def : model.cocho {
+	model_desc: "/model/cocho/cocho.pmd"
+	distance_type: 1
+}
+
+model_def : model.faixa {
+	model_desc: "/model/eaa/faixa_branca.pmd"
+	distance_type: 1
+}
+
+model_def : model.circo {
+	model_desc: "/model/circo/circo.pmd"
+	distance_type: 1
+}
+
+model_def : model.sujo {
+	model_desc: "/model/sujo/dirt_decal_01.pmd"
+	distance_type: 1
+}
+
+model_def : model.ponte1 {
+	model_desc: "/model/pontes/ponte_mad1.pmd"
+	distance_type: 3
+}
+
+model_def : model.ponte2 {
+	model_desc: "/model/pontes/ponte_mad2.pmd"
+	distance_type: 3
+}
+model_def : model.ponte3 {
+	model_desc: "/model/pontes/ponte_mad3.pmd"
+	distance_type: 3
+}
+model_def : model.ponte4 {
+ 	model_desc: "/model/pontes/ponte_factor.pmd"
+	distance_type: 3
+}	
+
+model_def : model.ponte5 {
+	model_desc: "/model/pontes/ponte_factor2.pmd"
+	distance_type: 3
+}
+
+
+model_def : model.eaa002 {
+	model_desc: "/model/cloud/cloud_02.pmd"
+ 	category: "Nuvem EAA"
+	distance_type: 1
+}
+
+model_def : model.eaa003 {
+	model_desc: "/model/cloud/cloud_03.pmd"
+ 	category: "Nuvem EAA"
+	distance_type: 1
+}
+
+model_def : model.eaa004 {
+	model_desc: "/model/cloud/cloud_04.pmd"
+ 	category: "Nuvem EAA"
+	distance_type: 1
+}
+
+model_def : model.eaa005 {
+	model_desc: "/model/cloud/cloud_05.pmd"
+ 	category: "Nuvem EAA"
+	distance_type: 1
+}
+
+model_def : model.eaa006 {
+	model_desc: "/model/dog/dog.pmd"
+ 	category: "Animais EAA"
+	distance_type: 1
+}
+
+model_def : model.eaa007 {
+	model_desc: "/model/dog/do2.pmd"
+ 	category: "Animais EAA"
+	distance_type: 1
+}
+
+model_def : model.eaa008 {
+	model_desc: "/model/carreta/carreta/carreta.pmd"
+ 	category: "Carreta EAA"
+	distance_type: 1
+}
+
+model_def : model.eaa009 {
+	model_desc: "/model/vegetation/trees_yungas/palm_mid1.pmd"
+	distance_type: 1
+ 	category: "Vegetacao EAA"
+}
+
+model_def : model.eaa010 {
+	model_desc: "/model/vegetation/trees_yungas/palm_tree1.pmd"
+	distance_type: 1
+ 	category: "Vegetacao EAA"
+}
+
+model_def : model.eaa011 {
+	model_desc: "/model/vegetation/trees_yungas/palm_tree2.pmd"
+	distance_type: 1
+ 	category: "Vegetacao EAA"
+}
+model_def : model.eaa012 {
+	model_desc: "/model/vegetation/trees_yungas/palm_tree3.pmd"
+ 	category: "Vegetacao EAA"
+	distance_type: 1
+}
+
+model_def : model.cabeceira {
+ 	model_desc: "/prefab/cabece/bridge_short.pmd"
+	category: "Pontes EAA"
+	distance_type: 3
+}
+
+model_def : model.eaa013 {
+	model_desc: "/model/outdoor/outdoor_eaa.pmd"
+	distance_type: 3
+	category: "Outdoor EAA"
+}
+model_def : model.eaa014 {
+	model_desc: "/model/bus/gv1150/gv1150.pmd"    
+}
+
+model_def : model.eaa015 {
+	model_desc: "/model/bus/jumbuss360/Jumbuss360.pmd"    
+}
+
+model_def : model.eaa016 {
+	model_desc: "/model/bus/jumbuss400/Jumbuss400.pmd"    
+}
+
+model_def : model.eaa017 {
+	model_desc: "/model/bus/o400rsd/o400rsd.pmd"    
+}
+
+model_def : model.eaa018 {
+	model_desc: "/model/bus/panoramicoddmb/PanoramicoDDMB.pmd"    
+}
+
+model_def : model.eaa019 {
+	model_desc: "/model/bus/paradiso6x2mb_1/Paradiso6X2MB_1.pmd"    
+}
+
+model_def : model.eaa020 {
+	model_desc: "/model/bus/paradiso1550ldmb/Paradiso1550LDMB.pmd"    
+}
+
+model_def : model.eaa021 {
+	model_desc: "/model/bus/visstabusshisc/VisstaBussHISC.pmd"    
+}
+
+model_def : model.eaa022 {
+	model_desc: "/model/bus/visstabusssc/VisstaBussSC.pmd"    
+}
+
+model_def : model.eaa023 {
+	model_desc: "/model/eaa/blocos_granito.pmd"    
+}
+
+model_def : model.eaa024 {
+	model_desc: "/model/eaa/carvoeira.pmd"    
+}
+
+model_def : model.eaa027 {
+	model_desc: "/model/eaa/et2/casas/casas_1.pmd"
+ 	category: "Casas EAA"
+	distance_type: 1
+}
+model_def : model.eaa031 {
+	model_desc: "/model/eaa/et2/kyosk/kyosk-2.pmd"
+ 	category: "Kyosk EAA"
+	distance_type: 1
+}
+model_def : model.eaa032 {
+	model_desc: "/model/eaa/et2/kyosk/kyosk-3.pmd"
+ 	category: "Kyosk EAA"
+	distance_type: 1
+}
+model_def : model.eaa033 {
+	model_desc: "/model/eaa/et2/kyosk/kyosk-4.pmd"
+ 	category: "Kyosk EAA"
+	distance_type: 1
+}
+model_def : model.eaa034 {
+	model_desc: "/model/eaa/et2/vila/vila_1.pmd"
+ 	category: "Casas EAA"
+	distance_type: 1
+}
+model_def : model.billeaa1 {
+ 	model_desc: "/model/billboard/PL1/billboard.pmd"
+	distance_type: 3
+}
+
+model_def : model.billeaa2 {
+ 	model_desc: "/model/billboard/PL2/billboard.pmd"
+	distance_type: 3
+}
+
+model_def : model.billeaa3 {
+ 	model_desc: "/model/billboard/PL3/billboard.pmd"
+	distance_type: 3
+}
+
+model_def : model.billeaa4 {
+ 	model_desc: "/model/billboard/PL4/billboard.pmd"
+	distance_type: 3
+}
+
+model_def : model.eaa038{
+	model_desc: "/model/vehicle/trailer_reefer_eaa.pmd"
+	distance_type: 1
+}
+
+model_def : model.alfabeto {
+	category: "EAA/objetos"
+	model_desc: "/model/eaa/alfabeto/alfabeto.pmd"
+
+}
+
+model_def : model.logo3D {
+	category: "EAA/objetos"
+	model_desc: "/model/eaa/logo3d/mapa_eaa.pmd"
+
+}
+
+model_def : model.basilica {
+	category: "EAA/santuario"
+	model_desc: "/model/eaa/basilica_aparecida/b_aparecida.pmd"
+
+}
+
+model_def : model.casasbr01 {
+	category: "model/casas brs"
+ 	model_desc: "/model/casas_br/casas_01.pmd"
+}
+
+model_def : model.casasbr02 {
+	category: "model/casas brs"
+ 	model_desc: "/model/casas_br/casas_02.pmd"
+}
+
+model_def : model.casasbr03 {
+	category: "model/casas brs"
+ 	model_desc: "/model/casas_br/casas_03.pmd"
+}
+
+model_def : model.casasbr04 {
+	category: "model/casas brs"
+ 	model_desc: "/model/casas_br/casas_04.pmd"
+}
+
+}
+

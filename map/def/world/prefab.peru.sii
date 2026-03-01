@@ -1,0 +1,80 @@
+SiiNunit
+{
+#by Elvis_Madariaga
+prefab_model : prefab.1PERU {
+	model_desc: "/prefab/gas/gas_icon.pmd"
+	prefab_desc: "/prefab/gas/gas_icon.ppd"
+	category: "peru"
+}
+
+prefab_model : prefab.2PERU {
+	model_desc: "/prefab/ponte_madeira/ponte_madeira_buraco_d.pmd"
+	prefab_desc: "/prefab/ponte_madeira/ponte_madeira_buraco_d.ppd"
+	category: "peru"
+}
+
+prefab_model : prefab.3PERU {
+	model_desc: "/prefab/ponte_madeira/ponte_madeira_larga.pmd"
+	prefab_desc: "/prefab/ponte_madeira/ponte_madeira_larga.ppd"
+	category: "peru"
+
+}
+
+prefab_model : prefab.4PERU {
+	model_desc: "/prefab/ponte_madeira/ponte_madeira_larga_1.pmd"
+	prefab_desc: "/prefab/ponte_madeira/ponte_madeira_larga.ppd"
+	category: "peru"
+}
+
+prefab_model : prefab.5PERU {
+	model_desc: "/prefab/ponte_madeira/ponte_madeira_larga_2.pmd"
+	prefab_desc: "/prefab/ponte_madeira/ponte_madeira_larga.ppd"
+	category: "peru"
+}
+
+prefab_model : prefab.6PERU {
+	model_desc: "/prefab/ponte_madeira/ponte_madeira_normal.pmd"
+	prefab_desc: "/prefab/ponte_madeira/ponte_madeira_larga.ppd"
+	category: "peru"
+}
+
+prefab_model : prefab.7PERU {
+	model_desc: "/prefab/ponte_madeira/ponte_madeira_normal.pmd"
+	prefab_desc: "/prefab/ponte_madeira/ponte_madeira_larga.ppd"
+	category: "peru"
+}
+
+prefab_model : prefab.8PERU {
+	model_desc: "/prefab/ponte_madeira/ponte_madeira_normal_desvio.pmd"
+	prefab_desc: "/prefab/ponte_madeira/ponte_madeira_buraco_d.ppd"
+	category: "peru"
+}
+
+prefab_model : prefab.9PERU {
+	model_desc: "/prefab/ponte_madeira/ponte_madeira_pequena.pmd"
+	prefab_desc: "/prefab/ponte_madeira/ponte_madeira_pequena.ppd"
+	category: "peru"
+}
+prefab_model : prefab.10PERU {
+	model_desc: "/prefab/fazenda/oficina_servico/oficina_servico.pmd"
+	prefab_desc: "/prefab/fazenda/oficina_servico/oficina_servico.ppd"
+	category: "servicio peru"
+}
+prefab_model : prefab.11PERU {
+	model_desc: "/prefab/fazenda/ponte_madeira/ponte_madeira.pmd"
+	prefab_desc: "/prefab/fazenda/ponte_madeira/ponte_madeira.ppd"
+	category: "peru"
+}
+prefab_model : prefab.12PERU {
+	model_desc: "/prefab/roadwork/roadwork_1x1b_cr.pmd"
+	prefab_desc: "/prefab/roadwork/roadwork_1x1b_cr.ppd"
+	category: "peru"
+}
+prefab_model : prefab.ca_weigh {
+	model_desc: "/prefab/weigh_station/ca_weigh_station.pmd"
+	prefab_desc: "/prefab/weigh_station/ca_weigh_station.ppd"
+	use_perlin: false
+	slow_time: true
+}
+
+}

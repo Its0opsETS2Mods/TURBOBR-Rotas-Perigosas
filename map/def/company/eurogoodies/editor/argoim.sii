@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .argoim {
+ city: argoim
+ prefab: 32
+}
+}

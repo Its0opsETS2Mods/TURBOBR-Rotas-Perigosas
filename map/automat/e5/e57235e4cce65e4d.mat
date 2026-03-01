@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.nofresnel.rfx" {
+	texture[0] : "/vehicle/ai/truck/7d4430sevkij/renault_t_a_4x2/metal_color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.895075 , 0.895075 , 0.895075 }
+	env_factor : { 0.835354 , 0.835354 , 0.835354 }
+	reflection : 1
+	shininess : 120
+	specular : { 0.895075 , 0.895075 , 0.895075 }
+}

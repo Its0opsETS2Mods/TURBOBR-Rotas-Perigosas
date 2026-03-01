@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .ipiau {
+ city: ipiau
+ prefab: 36
+}
+}

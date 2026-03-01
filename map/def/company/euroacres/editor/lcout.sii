@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .lcout {
+ city: lcout
+ prefab: 200
+}
+}

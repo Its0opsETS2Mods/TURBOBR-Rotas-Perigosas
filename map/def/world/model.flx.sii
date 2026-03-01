@@ -1,0 +1,7 @@
+SiiNunit
+{
+model_def : model.flx03 {
+ 	model_desc: "/model/city/praga/praga.pmd"
+	category: "detalhes"
+}
+}

@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/ai/01a7h2cd9fvp/vw_crafter/color.tobj"
+	texture_name[0] : "texture_base"
+}

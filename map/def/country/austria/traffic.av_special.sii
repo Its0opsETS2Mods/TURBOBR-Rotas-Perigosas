@@ -1,0 +1,142 @@
+SiiNunit
+{
+
+#################################################
+########### ETS2 - All Special Cars In Traffic V-1.8.9 
+########### www.skleroza.ge
+########### skleroza@skleroza.ge
+########### © skleroza 2016-2019
+#################################################
+
+
+country_traffic_info : .country.info.traffic.belgia.police {
+  object: traffic.belgia.police
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.fire.cz {
+  object: traffic.fire.cz
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.fire.de {
+  object: traffic.fire.de
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.fire.fr {
+  object: traffic.fire.fr
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.fire.it {
+  object: traffic.fire.it
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.france.police {
+  object: traffic.france.police
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.germany.police {
+  object: traffic.germany.police
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.italy.police {
+  object: traffic.italy.police
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.policia.locale {
+  object: traffic.policia.locale
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_av.ambulance {
+  object: traffic.sprinter_av.ambulance
+ spawn_frequency : 3.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_def {
+  object: traffic.sprinter_def
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_dk.ambulance {
+  object: traffic.sprinter_dk.ambulance
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_enf {
+  object: traffic.sprinter_enf
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_hun.ambulance {
+  object: traffic.sprinter_hun.ambulance
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_hun.police {
+  object: traffic.sprinter_hun.police
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_it.ambulance {
+  object: traffic.sprinter_it.ambulance
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_it.carabinieri {
+  object: traffic.sprinter_it.carabinieri
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_it.firefighter {
+  object: traffic.sprinter_it.firefighter
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_it.police {
+  object: traffic.sprinter_it.police
+ spawn_frequency : 0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_lux.ambulance {
+  object: traffic.sprinter_lux.ambulance
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_nl.ambulance {
+  object: traffic.sprinter_nl.ambulance
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_nl.police {
+  object: traffic.sprinter_nl.police
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_no.ambulance {
+  object: traffic.sprinter_no.ambulance
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_pl.ambulance {
+  object: traffic.sprinter_pl.ambulance
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_pl.police {
+  object: traffic.sprinter_pl.police
+ spawn_frequency : 2.0
+}
+
+country_traffic_info : .country.info.traffic.sprinter_swi.ambulance {
+  object: traffic.sprinter_swi.ambulance
+ spawn_frequency : 2.0
+}
+}
+

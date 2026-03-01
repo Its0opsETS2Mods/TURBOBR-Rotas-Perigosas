@@ -1,0 +1,32 @@
+SiiNunit
+{
+
+road_look : road.flx1 {
+	name: 			"Trocha Peru 1"
+	template_right:		"/road_template/fr/eld_estrada1.pmd"
+
+	lanes_left[]:		traffic_lane.no_vehicles
+	lanes_right[]:		traffic_lane.no_vehicles
+
+	lane_offsets_left[]:	(-1, 0.0)
+	lane_offsets_right[]:	(-1, 0.0)
+
+
+	compatible_edges_right[]: fr_sh_vill_1
+}
+
+road_look : road.flx2 {
+	name: 			"Trocha Peru 2"
+	template_right:		"/road_template/fr/eld_estrada3.pmd"
+
+	lanes_left[]:		traffic_lane.no_vehicles
+	lanes_right[]:		traffic_lane.no_vehicles
+
+	lane_offsets_left[]:	(-1, 0.0)
+	lane_offsets_right[]:	(-1, 0.0)
+
+
+	compatible_edges_right[]: fr_sh_vill_1
+}
+
+}

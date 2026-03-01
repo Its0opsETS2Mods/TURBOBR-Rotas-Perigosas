@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .camacari {
+ city: camacari
+ prefab: 31
+}
+}

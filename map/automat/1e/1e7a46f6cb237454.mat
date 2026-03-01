@@ -1,0 +1,15 @@
+effect : "eut2.lamp.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 1.000000 , 1.000000 , 1.000000 }
+	shininess : 90.000000
+	specular : { 0.447988 , 0.447988 , 0.447988 }
+	texture : "texture_base" {
+		source : "/vehicle/ai/pyhunhk1o44j/bus_tourliner/color.tobj"
+		sampler : default
+	}
+	texture : "texture_mask" {
+		source : "/vehicle/ai/pyhunhk1o44j/bus_tourliner/lamp_mask.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+}

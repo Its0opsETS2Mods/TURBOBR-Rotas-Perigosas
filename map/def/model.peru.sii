@@ -1,0 +1,836 @@
+SiiNunit
+{
+#by Elvis_Madariaga
+model_def : model.1peru {
+	model_desc: "/model/peru/lombada/lombada.pmd"
+	category: "peru"
+}
+model_def : model.2peru {
+	model_desc: "/model/peru/ojos/ojos.pmd"
+	category: "peru"
+}
+model_def : model.3peru {
+	model_desc: "/model/zzz/bridge/bridge_wood.pmd"
+	category: "peru"
+}
+model_def : model.4peru {
+	model_desc: "/model/zzz/bridge/bridge2_wood.pmd"
+	category: "peru"
+}
+model_def : model.5peru {
+	model_desc: "/model/zzz/bridge/mostbalki.pmd"
+	category: "peru"
+}
+model_def : model.6peru {
+ 	model_desc: "/model/vehicle/ru/maz_petrol/maz_petrol.pmd"
+	category: "peru"
+}
+model_def : model.7peru {
+ 	model_desc: "/model/objetos_rodovias/passarela.pmd"
+	category: "peru"
+}
+model_def : model.8peru {
+ 	model_desc: "/model/perumod/movistar1.pmd"
+	category: "peru"
+}
+model_def : model.9peru {
+ 	model_desc: "/model/perumod/movistar2.pmd"
+	category: "peru"
+}
+model_def : model.10peru {
+ 	model_desc: "/model/perumod/flechadere.pmd"
+	category: "peru"
+}
+model_def : model.11peru {
+ 	model_desc: "/model/perumod/flechaizq.pmd"
+	category: "peru"
+}
+model_def : model.12peru {
+ 	model_desc: "/mod/model/perumod/newboard.pmd"
+	category: "peru"
+}
+model_def : model.13peru {
+ 	model_desc: "/mod/models/perumod/casasjuntos.pmd"
+	category: "peru"
+}
+model_def : model.14peru {
+ 	model_desc: "/model/sign/traffic/aderecha.pmd"
+	category: "señales"
+}
+model_def : model.15peru {
+ 	model_desc: "/model/sign/traffic/aizquierda.pmd"
+	category: "señales"
+}
+model_def : model.16peru {
+ 	model_desc: "/model/sign/traffic/sign_h1.ps.pmd"
+	category: "señales"
+}
+model_def : model.17peru {
+ 	model_desc: "/model/modelbyjhon/puente.pmd"
+	category: "señales"
+}
+model_def : model.18peru {
+ 	model_desc: "/model/modelbyjhon/reductor.pmd"
+	category: "señales"
+}
+model_def : model.19peru {
+ 	model_desc: "/model/modelbyjhon/neblina.pmd"
+	category: "señales"
+}
+model_def : model.20peru {
+ 	model_desc: "/model/modelbyjhon/sos100m.pmd"
+	category: "señales"
+}
+model_def : model.21peru {
+ 	model_desc: "/model/modelbyjhon/uderecha.pmd"
+	category: "señales"
+}
+model_def : model.22peru {
+ 	model_desc: "/model/modelbyjhon/uizquierda.pmd"
+	category: "señales"
+}
+model_def : model.23peru {
+ 	model_desc: "/model/modelbyjhon/spuente.pmd"
+	category: "señales"
+}
+model_def : model.24peru {
+ 	model_desc: "/model/modelbyjhon/slombada.pmd"
+	category: "señales"
+}
+model_def : model.25peru {
+ 	model_desc: "/model/modelbyjhon/avisos_pla.pmd"
+	category: "Publicidad"
+}
+model_def : model.26peru {
+ 	model_desc: "/model/perumod/cp1.pmd"
+	category: "señales"
+}
+model_def : model.27peru {
+ 	model_desc: "/model/perumod/cp2.pmd"
+	category: "señales"
+}
+model_def : model.28peru {
+ 	model_desc: "/model/perumod/claro1.pmd"
+	category: "Publicidad"
+}
+model_def : model.29peru {
+ 	model_desc: "/model/perumod/gloria.pmd"
+	category: "Publicidad"
+}
+model_def : model.30peru {
+ 	model_desc: "/model/perumod/lan.pmd"
+	category: "Publicidad"
+}
+model_def : model.31peru {
+ 	model_desc: "/model/perumod/sd1.pmd"
+	category: "señales"
+}
+model_def : model.32peru {
+ 	model_desc: "/model/perumod/tunels.pmd"
+	category: "señales"
+}
+model_def : model.33peru {
+ 	model_desc: "/model/perumod/nopiedras.pmd"
+	category: "señales"
+}
+model_def : model.34peru {
+ 	model_desc: "/model/peru/buses/gv/gv1.pmd"
+	category: "buses"
+}
+model_def : model.35peru {
+ 	model_desc: "/model/peru/buses/g6/8x2/8x2.pmd"
+	category: "buses"
+}
+model_def : model.36peru {
+ 	model_desc: "/model/peru/buses/pano/6x2/6x2.pmd"
+	category: "buses"
+}
+model_def : model.37peru {
+ 	model_desc: "/model/peru/buses/g6/ld/6x2/6x2.pmd"
+	category: "buses"
+}
+model_def : model.38peru {
+ 	model_desc: "/mode1/misc/people/crowd.pmd"
+	category: "pasajeros"
+}
+model_def : model.39peru {
+ 	model_desc: "/mode1/misc/people/factory_busstop.pmd"
+	category: "pasajeros"
+}
+model_def : model.40peru {
+ 	model_desc: "/mode1/misc/people/factory_invis.pmd"
+	category: "pasajeros"
+}
+model_def : model.41peru {
+ 	model_desc: "/mode1/misc/people/factory_ui.pmd"
+	category: "pasajeros"
+}
+model_def : model.42peru {
+ 	model_desc: "/mode1/misc/people/history_busstop.pmd"
+	category: "pasajeros"
+}
+model_def : model.43peru {
+ 	model_desc: "/mode1/misc/people/history_invis.pmd"
+	category: "pasajeros"
+}
+model_def : model.44peru {
+ 	model_desc: "/mode1/misc/people/history_ui.pmd"
+	category: "pasajeros"
+}
+model_def : model.45peru {
+ 	model_desc: "/mode1/misc/people/hotel_busstop.pmd"
+	category: "pasajeros"
+}
+model_def : model.46peru {
+ 	model_desc: "/mode1/misc/people/hotel_invis.pmd"
+	category: "pasajeros"
+}
+model_def : model.47peru {
+ 	model_desc: "/mode1/misc/people/hotel_ui.pmd"
+	category: "pasajeros"
+}
+model_def : model.48peru {
+ 	model_desc: "/model/scania_competition/extreme_bridge/extreme_bridge_1.pmd"
+	category: "puente"
+}
+model_def : model.49peru {
+ 	model_desc: "/model/scania_competition/extreme_bridge/extreme_bridge_2.pmd"
+	category: "puente"
+}
+model_def : model.50peru {
+ 	model_desc: "/model/vehicle/wrak_1.pmd"
+	category: "accidente"
+}
+model_def : model.51peru {
+ 	model_desc: "/model/vehicle/wrak_2.pmd"
+	category: "accidente"
+}
+model_def : model.52peru {
+ 	model_desc: "/model/vehicle/wrak_3.pmd"
+	category: "accidente"
+}
+model_def : model.53peru {
+ 	model_desc: "/model/vehicle/wrak_ambulans.pmd"
+	category: "accidente"
+}
+model_def : model.54peru {
+ 	model_desc: "/model/vehicle/wrak_cysterna.pmd"
+	category: "accidente"
+}
+model_def : model.55peru {
+ 	model_desc: "/model/parked_cars/damage_car_02_cr.pmd"
+	category: "accidente"
+}
+model_def : model.56peru {
+ 	model_desc: "/model/road/koldoebina_1.pmd"
+	category: "bache"
+}
+model_def : model.57peru {
+ 	model_desc: "/model/road/koldoebina_5.pmd"
+	category: "bache"
+}
+model_def : model.58peru {
+ 	model_desc: "/model/road/koldoebina_big_g01.pmd"
+	category: "bache"
+}
+model_def : model.59peru {
+ 	model_desc: "/model/road/stripes_prefab_eu_land_01a_full_mirror.pmd"
+	category: "bache"
+}
+model_def : model.60peru {
+ 	model_desc: "/model/fazenda/truck/volvo_new.pmd"
+	category: "camiones"
+}
+model_def : model.61peru {
+ 	model_desc: "/model/bt-model/jc/mb_small/mb_small_parking.pmd"
+	category: "camiones"
+}
+model_def : model.62peru {
+ 	model_desc: "/model/bt-model/jc/mb_small/mb_small.pmd"
+	category: "camiones"
+}
+model_def : model.63peru {
+ 	model_desc: "/model/bt-model/jc/renault3axle_p/renault3axle_p.pmd"
+	category: "camiones"
+}
+model_def : model.64peru {
+ 	model_desc: "/model/bt-model/jc/volvo_small/volvo_small.pmd"
+	category: "camiones"
+}
+model_def : model.65peru {
+ 	model_desc: "/model/bt-model/jc/volvo_small/volvo_small_p.pmd"
+	category: "camiones"
+}
+model_def : model.66peru {
+ 	model_desc: "/model/bt-model/Sprinter/Sprinter_beacon.pmd"
+	category: "sprinter"
+}
+model_def : model.67peru {
+ 	model_desc: "/model/bt-model/Sprinter/Sprinter_beacon_p.pmd"
+	category: "sprinter"
+}
+model_def : model.68peru {
+ 	model_desc: "/model/bt-model/Sprinter/Sprinter_normal.pmd"
+	category: "sprinter"
+}
+model_def : model.69peru {
+ 	model_desc: "/model/bt-model/Sprinter/Sprinter_normal_p.pmd"
+	category: "sprinter"
+}
+model_def : model.70peru {
+ 	model_desc: "/model/tm_model/truck/volvo/tm_truck_volvo.pmd"
+	category: "camiones"
+}
+model_def : model.71peru {
+ 	model_desc: "/model/ua/policia/ment.pmd"
+	category: "policia"
+}
+model_def : model.72peru {
+ 	model_desc: "/model/rock/peakles3.pmd"
+	category: "cerros"
+}
+model_def : model.73peru {
+ 	model_desc: "/model/polman/ment.pmd"
+	category: "policia"
+}
+model_def : model.74peru {
+ 	model_desc: "/model/polman/ment1.pmd"
+	category: "policia"
+}
+model_def : model.75peru {
+ 	model_desc: "/model/moj/police/bmw_3_polizei.pmd"
+	category: "policia"
+}
+model_def : model.76peru {
+ 	model_desc: "/model/moj/police/notarzt.pmd"
+	category: "policia"
+}
+model_def : model.77peru {
+ 	model_desc: "/model/moj/police/transit_policja.pmd"
+	category: "policia"
+}
+model_def : model.78peru {
+ 	model_desc: "/model/_inne/doktor_1.pmd"
+	category: "medicos"
+}
+model_def : model.79peru {
+ 	model_desc: "/model/_inne/doktor_2_nosze.pmd"
+	category: "medicos"
+}
+model_def : model.80peru {
+ 	model_desc: "/model/vehicle/bebek01.pmd"
+	category: "moto"
+}
+model_def : model.81peru {
+ 	model_desc: "/model/newmarco/nm.pmd"
+	category: "buses"
+}
+model_def : model.82peru {
+ 	model_desc: "/model/bt-model/jc/neoplan_tourliner/neoplan_tourliner.pmd"
+	category: "buses"
+}
+model_def : model.83peru {
+ 	model_desc: "/model/bt-model/jc/man_dumper/man_dumper.pmd"
+	category: "volquete"
+}
+model_def : model.84peru {
+ 	model_desc: "/model/fazenda/fumaca/fumaca.pmd"
+	category: "humo"
+}
+model_def : model.85peru {
+ 	model_desc: "/model/fazenda/galpao/galpao/galpao.pmd"
+	category: "humo"
+}
+model_def : model.86peru {
+ 	model_desc: "/model/russ_mods/truck/kamaz_avariya/kamaz_avar.pmd"
+	category: "accidente"
+}
+model_def : model.87peru {
+ 	model_desc: "/model/dock/mototaxi/mototaxi.pmd"
+	category: "moto"
+}
+model_def : model.88peru {
+ 	model_desc: "/model/bt-model/other/billboard_construction/billboard_construction.pmd"
+	category: "Publicidad"
+}
+model_def : model.89peru {
+ 	model_desc: "/model/bt-model/other/billboard_construction/billboard_construction_2.pmd"
+	category: "Publicidad"
+}
+model_def : model.90peru {
+ 	model_desc: "/model/bt-model/other/billboard_construction/billboard_construction_3.pmd"
+	category: "Publicidad"
+}
+model_def : model.91peru {
+ 	model_desc: "/model/bt-model/other/billboard_construction/billboard_construction_4.pmd"
+	category: "Publicidad"
+}
+model_def : model.92peru {
+ 	model_desc: "/model/russia/atp_1/proxod.pmd"
+	category: "Taller"
+}
+model_def : model.93peru {
+ 	model_desc: "/model/vehicle/daf_crach/daf_crach.pmd"
+	category: "accidente"
+}
+model_def : model.94peru {
+ 	model_desc: "/model/vehicle/iveco_crach/iveco_crach.pmd"
+	category: "accidente"
+}
+model_def : model.95peru {
+ 	model_desc: "/model/vehicle/man_crach/man_crach.pmd"
+	category: "accidente"
+}
+model_def : model.96peru {
+ 	model_desc: "/model/scania_competition/scania_board01.pmd"
+	category: "Publicidad"
+}
+model_def : model.97peru {
+ 	model_desc: "/model/russia/atp_1/atp_1.pmd"
+	category: "Taller"
+}
+model_def : model.98peru {
+ 	model_desc: "/model/general/brokencar/broken_car1.pmd"
+	category: "mecanico"
+}
+model_def : model.99peru {
+ 	model_desc: "/model/general/brokencar/broken_car2.pmd"
+	category: "mecanico"
+}
+model_def : model.100peru {
+ 	model_desc: "/model/general/brokencar/broken_car3.pmd"
+	category: "mecanico"
+}
+model_def : model.101peru {
+ 	model_desc: "/model/perucerros/altiplano.pmd"
+	category: "cerros"
+}
+model_def : model.102peru {
+ 	model_desc: "/model/rock/ca_rock/ca_far_hills01a.pmd"
+	category: "cerros"
+}
+model_def : model.103peru {
+ 	model_desc: "/model/rock/ca_rock/ca_far_hills02.pmd"
+	category: "cerros"
+}
+model_def : model.104peru {
+ 	model_desc: "/model/rock/ca_rock/ca_rock_wall03.pmd"
+	category: "cerros"
+}
+model_def : model.105peru {
+ 	model_desc: "/model/puquiomod/cerrocusco.pmd"
+	category: "cerros"
+}
+model_def : model.106peru {
+ 	model_desc: "/model/perumod/cerross.pmd"
+	category: "cerros"
+}
+model_def : model.107peru {
+ 	model_desc: "/model/perumod/cliffcosta.pmd"
+	category: "cerros"
+}
+model_def : model.108peru {
+ 	model_desc: "/model/perucerros/costeno.pmd"
+	category: "cerros"
+}
+model_def : model.109peru {
+ 	model_desc: "/model/rock/my rock/my_rock3.pmd"
+	category: "cerros"
+}
+model_def : model.110peru {
+ 	model_desc: "/model/rock/my rock/my_rock4.pmd"
+	category: "cerros"
+}
+model_def : model.111peru {
+ 	model_desc: "/model/puquiomod/sierraperu.pmd"
+	category: "cerros"
+}
+model_def : model.112peru {
+	model_desc: "/model/peruviansignv2/uderechav1.pmd"
+	category: "señalizacion"
+}
+model_def : model.116peru {
+	model_desc: "/model/russia/trailer/maz99864/trailer.pmd"
+	category: "carreta"
+}
+model_def : model.117peru {
+	model_desc: "/model/russia/trailer/mtm933/trailer.pmd"
+	category: "carreta"
+}
+model_def : model.118peru {
+ 	model_desc: "/model/bt-model/jc/mb/mb_crane.pmd"
+	category: "camiones"
+}
+model_def : model.119peru {
+ 	model_desc: "/model/bt-model/jc/mb/mb_milk.pmd"
+	category: "camiones"
+}
+model_def : model.120peru {
+ 	model_desc: "/model/bt-model/jc/mb/mb_milk_p.pmd"
+	category: "camiones"
+}
+model_def : model.121peru {
+ 	model_desc: "/model/moq/man/man.pmd"
+	category: "camiones"
+}
+model_def : model.122peru {
+ 	model_desc: "/model/moq/man/man1.pmd"
+	category: "camiones"
+}
+model_def : model.123peru {
+ 	model_desc: "/model/moq/man/mansolo.pmd"
+	category: "camiones"
+}
+model_def : model.124peru {
+ 	model_desc: "/model/moq/scania/scaniasand.pmd"
+	category: "camiones"
+}
+model_def : model.125peru {
+ 	model_desc: "/model/moq/scania/scaniasand1.pmd"
+	category: "camiones"
+}
+model_def : model.126peru {
+ 	model_desc: "/model/moq/scania/scaniasand2.pmd"
+	category: "camiones"
+}
+model_def : model.127peru {
+ 	model_desc: "/model/moq/scania/scaniasattel.pmd"
+	category: "camiones"
+}
+model_def : model.128peru {
+ 	model_desc: "/model/moq/scania/scaniasattel_sh.pmd"
+	category: "camiones"
+}
+model_def : model.129peru {
+ 	model_desc: "/model/moq/volvo/volvo_solo.pmd"
+	category: "camiones"
+}
+model_def : model.130peru {
+ 	model_desc: "/model/moq/volvo/volvo_solo1.pmd"
+	category: "camiones"
+}
+model_def : model.131peru {
+ 	model_desc: "/model/bt-model/jc/overweight/overweight.pmd"
+	category: "carreta"
+}
+model_def : model.132peru {
+ 	model_desc: "/model/moj/prikolice/logs/trailer_logs.pmd"
+	category: "carreta"
+}
+model_def : model.133peru {
+ 	model_desc: "/model/moj/prikolice/logs/trailer_logs_load.pmd"
+	category: "carreta"
+}
+model_def : model.134peru {
+ 	model_desc: "/model/moj/prikolice/pjesak/wywrotka_1.pmd"
+	category: "carreta"
+}
+model_def : model.135peru {
+ 	model_desc: "/model2/dirt/dirt_decal_01.pmd"
+	category: "bache"
+}
+model_def : model.136peru {
+ 	model_desc: "/model2/dirt/dirt_decal_02.pmd"
+	category: "bache"
+}
+model_def : model.137peru {
+ 	model_desc: "/model/road1/zaplatka.pmd"
+	category: "bache"
+}
+model_def : model.138peru {
+ 	model_desc: "/model/road/koldoebina_1_new.pmd"
+	category: "bache"
+}
+model_def : model.139peru {
+ 	model_desc: "/model/road/koldoebina_1_new_1.pmd"
+	category: "bache"
+}
+model_def : model.140peru {
+ 	model_desc: "/model/jetbus/jbhd1.pmd"
+	category: "buses"
+}
+model_def : model.141peru {
+ 	model_desc: "/model/rsevoz/rsevo.pmd"
+	category: "buses"
+}
+model_def : model.142peru {
+ 	model_desc: "/model/rock/mountainp.pmd"
+	category: "cerros"
+}
+model_def : model.143peru {
+ 	model_desc: "/model/central2/rockcen.pmd"
+	category: "cerros"
+}
+model_def : model.144peru {
+ 	model_desc: "/model/central2/rockcen2.pmd"
+	category: "cerros"
+}
+model_def : model.145peru {
+ 	model_desc: "/model/pecsa/pecsa.pmd"
+	category: "grifo"
+}
+model_def : model.146peru {
+ 	model_desc: "/model/central2/altura.pmd"
+	category: "cerros"
+}
+model_def : model.147peru {
+ 	model_desc: "/model/huncayomod/campocasa.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.148peru {
+ 	model_desc: "/model/huncayomod/cancha.pmd"
+	category: "cancha"
+}
+model_def : model.149peru {
+ 	model_desc: "/model/huva/casahun.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.150peru {
+ 	model_desc: "/model/punomod/casapuno.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.151peru {
+ 	model_desc: "/model/punomod/centropuno.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.152peru {
+ 	model_desc: "/model/punomod/murope.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.153peru {
+ 	model_desc: "/model/puquiomod/casasjh/casasapu.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.154peru {
+ 	model_desc: "/model/puquiomod/casapuquio.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.155peru {
+ 	model_desc: "/model/perumod/casasaqp.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.156peru {
+ 	model_desc: "/model/perumod/casasbyscs.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.157peru {
+ 	model_desc: "/model/modelbyjhon/casascosta.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.158peru {
+ 	model_desc: "/model/perumod/casashostal.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.159peru {
+ 	model_desc: "/model/costamod/colonial1.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.160peru {
+ 	model_desc: "/model/perumod/cuadraaqp.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.161peru {
+ 	model_desc: "/model/perumod/cuadraaya.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.162peru {
+ 	model_desc: "/model/sign/misc/krucifix.pmd"
+	category: "michos"
+}
+model_def : model.163peru {
+ 	model_desc: "/model/scania_competition/red_level_6_barrier.pmd"
+	category: "conos"
+}
+model_def : model.164peru {
+ 	model_desc: "/model/peruviangas/petroperu.pmd"
+	category: "grifo"
+}
+model_def : model.165peru {
+ 	model_desc: "/model/perumod/f16.pmd"
+	category: "señalizacion"
+}
+model_def : model.166peru {
+ 	model_desc: "/model/dock/sterling/stearling.pmd"
+	category: "camiones"
+}
+model_def : model.167peru {
+ 	model_desc: "/model/volvo/volvo.pmd"
+	category: "camiones"
+}
+model_def : model.168peru {
+ 	model_desc: "/model/carlos/kenworth/rt/rt.pmd"
+	category: "camiones"
+}
+model_def : model.169peru {
+ 	model_desc: "/model/carlos/city/peru/peru_city.pmd"
+	category: "señalizacion"
+}
+model_def : model.170peru {
+ 	model_desc: "/model/carlos/hino/h700/h700.pmd"
+	category: "camiones"
+}
+model_def : model.171peru {
+ 	model_desc: "/model/carlos/hino/holownik/holownik.pmd"
+	category: "camiones"
+}
+model_def : model.172peru {
+ 	model_desc: "/model/carlos/volvo/n10/n10.pmd"
+	category: "camiones"
+}
+model_def : model.173peru {
+ 	model_desc: "/model/carlos/vw/combi/combi.pmd"
+	category: "combi"
+}
+model_def : model.174peru {
+ 	model_desc: "/model/carlos/trailer/carga_hino/carga_hino.pmd"
+	category: "carreta"
+}
+model_def : model.175peru {
+ 	model_desc: "/model/carlos/puente/peru/peru_puente.pmd"
+	category: "puentes"
+}
+model_def : model.176peru {
+ 	model_desc: "/model/carlos/kenworth/w900tw/w900tw.pmd"
+	category: "camiones"
+}
+model_def : model.177peru {
+ 	model_desc: "/model/carlos/irizar/i8/i8.pmd"
+	category: "buses"
+}
+model_def : model.178peru {
+ 	model_desc: "/model/carlos/volvo/f10/f10.pmd"
+	category: "camiones"
+}
+model_def : model.179peru {
+ 	model_desc: "/model/carlos/vw/18310/18310.pmd"
+	category: "camiones"
+}
+model_def : model.180peru {
+ 	model_desc: "/model/man_idiot/man_idiot.pmd"
+	category: "volquete"
+}
+model_def : model.181peru {
+ 	model_desc: "/model/police_cop/police_cop.pmd"
+	category: "policia"
+}
+model_def : model.182peru {
+ 	model_desc: "/model/trailer_35/trailer_35.pmd"
+	category: "carreta"
+}
+model_def : model.183peru {
+ 	model_desc: "/model/truck_ora/dump_truck.pmd"
+	category: "carreta"
+}
+model_def : model.184peru {
+ 	model_desc: "/vehicle/ai/ducato_pol/lod.pmd"
+	category: "policia"
+}
+model_def : model.185peru {
+ 	model_desc: "/vehicle/truck/jazzycat/mb_o400/mb_o400_lod.pmd"
+	category: "buses"
+}
+model_def : model.186peru {
+ 	model_desc: "/vehicle/truck/jazzycat/man_caetano/man_caetano_lod.pmd"
+	category: "buses"
+}
+model_def : model.187peru {
+ 	model_desc: "/vehicle/truck/jazzycat/kenworth_k100/lod.pmd"
+	category: "camiones"
+}
+model_def : model.188peru {
+ 	model_desc: "/vehicle/truck/jazzycat/iveco_turbo/iveco_turbo_lod.pmd"
+	category: "camiones"
+}
+model_def : model.189peru {
+ 	model_desc: "/vehicle/truck/jazzycat/internat_9800/inter_lod.pmd"
+	category: "camiones"
+}
+model_def : model.190peru {
+ 	model_desc: "/vehicle/truck/jazzycat/fclassic/truck_lod.pmd"
+	category: "camiones"
+}
+model_def : model.191peru {
+ 	model_desc: "/vehicle/truck/jazzycat/volvo_fmx/volvo_fmx_lod.pmd"
+	category: "volquete"
+}
+model_def : model.192peru {
+ 	model_desc: "/vehicle/truck/jazzycat/volvo9900/volvo9900_lod.pmd"
+	category: "buses"
+}
+model_def : model.194peru {
+ 	model_desc: "/model/peru/buses/accidente/impacto/chocado.pmd"
+	category: "accidente"
+}
+model_def : model.195peru {
+ 	model_desc: "/model/peru/buses/accidente/volcadura/cat422.pmd"
+	category: "accidente"
+}
+model_def : model.196peru {
+ 	model_desc: "/model/andhouses/panacasa.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.197peru {
+ 	model_desc: "/model/andhouses/casachall.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.198peru {
+ 	model_desc: "/model/limamod/caslim2.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.199peru {
+ 	model_desc: "/model/limamod/limcas1.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.200peru {
+ 	model_desc: "/model/name/casapalca.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.201peru {
+ 	model_desc: "/model/name/lt1.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.202peru {
+ 	model_desc: "/model/name/sub1.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.203peru {
+ 	model_desc: "/model/name/sub2.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.204peru {
+ 	model_desc: "/model/name/tlc.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.205peru {
+ 	model_desc: "/model/tarmamod/tarmahous.pmd"
+	category: "casa 3d peruvian"
+}
+model_def : model.206peru {
+ 	model_desc: "/model/rjmodel/favela/favela.pmd"
+	category: "detalles puno"
+}
+model_def : model.207peru {
+ 	model_desc: "/model/detalhes/banco/model.pmd"
+	category: "detalles puno"
+}
+model_def : model.208peru {
+ 	model_desc: "/model/detalhes/bar/bar.pmd"
+	category: "detalles puno"
+}
+model_def : model.209peru {
+ 	model_desc: "/model/detalhes/barracalanches/model.pmd"
+	category: "detalles puno"
+}
+model_def : model.210peru {
+ 	model_desc: "/model/detalhes/casaconst/const.pmd"
+	category: "detalles puno"
+}
+model_def : model.211peru {
+ 	model_desc: "/model/detalhes/casas/favela/casafavela.pmd"
+	category: "detalles puno"
+}
+model_def : model.212peru {
+ 	model_desc: "/model/detalhes/mesabar/model.pmd"
+	category: "detalles puno"
+}
+}
